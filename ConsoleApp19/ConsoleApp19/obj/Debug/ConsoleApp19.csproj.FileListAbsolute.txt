@@ -1,0 +1,7 @@
+G:\vs projects\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+G:\vs projects\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+G:\vs projects\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+G:\vs projects\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+G:\vs projects\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+G:\vs projects\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+G:\vs projects\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
